@@ -1,8 +1,8 @@
-# React + Vite
+# useContext Hook Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React project where I demonstrate the usage of the `useContext` hook to manage state across components. The `useContext` hook allows you to share values across the component tree without prop drilling, making state management easier in complex applications.
 
-Currently, two official plugins are available:
+## Setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project was bootstrapped with [Vite](https://vitejs.dev/), which provides a fast development environment for React applications.
+
